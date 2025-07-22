@@ -1,5 +1,8 @@
 # SQL-Project-Library-Management-System
 
+![ERD](https://github.com/user-attachments/assets/3a40977e-ba6d-44b0-a191-d4d77f230261)
+
+
 ```sql
 
 -- SQL Project Library Management System ERD
