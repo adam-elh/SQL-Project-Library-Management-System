@@ -6,7 +6,6 @@
 
 -- Create Table Queries with relationships
 
-/*
 DROP TABLE IF EXISTS branch;
 CREATE TABLE branch (
             branch_id VARCHAR(10) PRIMARY KEY,
@@ -66,8 +65,6 @@ CREATE TABLE return_status (
             return_book_isbn VARCHAR(50),
             FOREIGN KEY (return_book_isbn) REFERENCES books(isbn)
 );
-
-*/
 
 -- Create Table Queries without relationships
 
